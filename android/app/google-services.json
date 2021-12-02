@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "404609233206",
+    "project_id": "amanfirestore-a8225",
+    "storage_bucket": "amanfirestore-a8225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404609233206:android:8ef9ec5e03e470ccd10397",
+        "android_client_info": {
+          "package_name": "com.example.aman_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404609233206-inag3b2qkogl6nhcu9kr1bpfki5gbgi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aman_firebase",
+            "certificate_hash": "284a25b4e3f80e86d74c4daf54e669a6bd2039c3"
+          }
+        },
+        {
+          "client_id": "404609233206-ccq5i96v1co69jmvm5g8ldm46q1l8960.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgy5lKZXBLGOQCKBcBuxzykb1ueMF-45k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404609233206-ccq5i96v1co69jmvm5g8ldm46q1l8960.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
